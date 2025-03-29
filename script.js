@@ -1,5 +1,4 @@
-console.log("Скрипт загружен и выполнен!");
-
-document.addEventListener('DOMContentLoaded', function() {
-    console.log("DOM загружен!");
-});
+function skript1() {
+  console.log('Скрипт загружен и выполнен!');
+}
+skript2();
